@@ -9,7 +9,16 @@ the MOG project's own data.
 ## Groups / tabs
 
 Cervidae (Odocoileus, Cervus, Alces, Rangifer), Sylvilagus, Lepus, Neotoma, Sciurus, Glaucomys,
-Ammospermophilus, Urocitellus, Ictidomys, Otospermophilus, Xerospermophilus.
+Ammospermophilus, Urocitellus, Ictidomys, Otospermophilus, Xerospermophilus, Neotamias (Western
+chipmunks).
+
+### Neotamias (added after initial release)
+
+Same 23-species scope as the Snapshot USA dashboard (see that project's README for the full
+taxonomy/scope notes). MOG's own 2025 data shows only one Neotamias detection (a Least Chipmunk
+at the Manti-La Sal Summit subproject) -- consistent with MOG's forest-focused, Southwest-heavy
+deployment footprint rather than a data gap, since the range and iNaturalist layers on this tab
+still show the full 23-species picture.
 
 ## Data sources
 
